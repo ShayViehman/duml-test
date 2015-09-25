@@ -17,3 +17,5 @@
 
 **Insert image**
 ![] (https://github.com/github/training-kit/blob/master/images/professortocat.png)
+
+#JVP Question to Shay: How YOU doin'???
