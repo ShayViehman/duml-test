@@ -3,14 +3,14 @@
 **Dinner party title** marine scientist
 
 #Current work activities
--writing/editing journal manuscript and report manuscript
--R & matlab analyses
--writing proposals
+- writing/editing journal manuscript and report manuscript
+- R & matlab analyses
+- writing proposals
 
 #Organization tools
--version control
--file naming
--file folders
+- version control
+- file naming
+- file folders
 
 **Insert hyperlink**
 [Visit GitHub!](https://www.github.com)
